@@ -1,2 +1,7 @@
-# Travel-Rec-System
-Undergrad Project where we explored the posibility on how to use cosine similarity against its limitations and make it work as a recommendation system
+# tourism-rec
+Recommender System Files: -
+  1. Recommender.py
+  2. rec2.py
+
+Flask App Files: -
+  1. app.py
